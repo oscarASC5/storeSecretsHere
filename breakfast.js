@@ -3,4 +3,4 @@ console.log("I want eggs");
 
 console.log("I want orange juice");
 
-console.log("I wamt to eat all the food for myself");
+console.log("I want to eat all the food for myself");
